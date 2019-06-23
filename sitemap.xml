@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://agladky.com/books/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ru"
+                href="https://agladky.ru/books/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://agladky.com/books/"
+                />
+  </url>
+  
+  <url>
     <loc>https://agladky.com/</loc>
     <xhtml:link
                 rel="alternate"
