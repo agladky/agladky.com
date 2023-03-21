@@ -1,101 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Anatoly Gladky</title>
+    <title>Tags on Anatolii Gladkii</title>
     <link>https://agladky.com/tags/</link>
-    <description>Recent content in Tags on Anatoly Gladky</description>
+    <description>Recent content in Tags on Anatolii Gladkii</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Tue, 13 Dec 2016 17:10:07 +0300</lastBuildDate><atom:link href="https://agladky.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>dotnet</title>
-      <link>https://agladky.com/tags/dotnet/</link>
-      <pubDate>Tue, 13 Dec 2016 17:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/dotnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>блог</title>
-      <link>https://agladky.com/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
-      <pubDate>Sat, 10 Sep 2016 11:13:23 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>подкасты</title>
-      <link>https://agladky.com/tags/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B/</link>
-      <pubDate>Mon, 05 Sep 2016 22:14:03 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%81%D1%82%D1%8B/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ide</title>
-      <link>https://agladky.com/tags/ide/</link>
-      <pubDate>Thu, 25 Feb 2016 13:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/ide/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>javascript</title>
-      <link>https://agladky.com/tags/javascript/</link>
-      <pubDate>Tue, 02 Feb 2016 13:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/javascript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>functional</title>
-      <link>https://agladky.com/tags/functional/</link>
-      <pubDate>Wed, 27 Jan 2016 13:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/functional/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>python</title>
-      <link>https://agladky.com/tags/python/</link>
-      <pubDate>Wed, 20 Jan 2016 13:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>git</title>
-      <link>https://agladky.com/tags/git/</link>
-      <pubDate>Wed, 06 Jan 2016 13:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>shell</title>
-      <link>https://agladky.com/tags/shell/</link>
-      <pubDate>Thu, 26 Nov 2015 13:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/shell/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>test</title>
-      <link>https://agladky.com/tags/test/</link>
-      <pubDate>Sat, 05 Sep 2015 13:10:07 +0300</pubDate>
-      
-      <guid>https://agladky.com/tags/test/</guid>
-      <description></description>
-    </item>
-    
+    <language>en-US</language><atom:link href="https://agladky.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
