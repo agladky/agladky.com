@@ -95,23 +95,6 @@ a {
     display: flex;
     justify-content: space-between;
     margin-top: 1em; }
-  .page-header__lang {
-    display: flex;
-    align-items: center;
-    margin-left: auto;
-    line-height: 0; }
-  .page-header__lang-link:link {
-    color: #567;
-    border-bottom-color: rgba(85, 102, 119, 0.2); }
-  .page-header__lang-link:visited {
-    color: #567;
-    border-bottom-color: rgba(85, 102, 119, 0.2); }
-  .page-header__lang-link:hover {
-    color: #d04000;
-    border-bottom-color: rgba(208, 64, 0, 0.2); }
-  .page-header__lang-list {
-    list-style-type: none;
-    padding-left: 0; }
   .page-header__menu {
     font-size: 0.875rem;
     font-family: "Helvetica Neue", "Open Sans", "Arial", sans-serif; }
