@@ -350,6 +350,15 @@
     </item>
     
     <item>
+      <title>Building Microservices</title>
+      <link>https://agladky.com/books/building-microservices/</link>
+      <pubDate>Wed, 29 Apr 2020 08:34:17 -0700</pubDate>
+      
+      <guid>https://agladky.com/books/building-microservices/</guid>
+      <description>Хорошая книга для погружения в понимание микросервисов. Пошагово проходится по всем этапам: как разрабатывать, как тестировать, как деплоить. Хотелось бы, что бы пример был более сложным, а не просто музыкальный магазин.</description>
+    </item>
+    
+    <item>
       <title>Building Microservices: Designing Fine-Grained Systems</title>
       <link>https://agladky.com/books/building-microservices-designing-fine-grained-systems/</link>
       <pubDate>Wed, 29 Apr 2020 08:34:17 -0700</pubDate>
